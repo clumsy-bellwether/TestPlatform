@@ -1,3 +1,2 @@
-# TestPlatform
-FirstTestProject
+# TestPlatform FirstTestProject
 This my first github project
